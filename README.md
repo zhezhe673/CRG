@@ -1,2 +1,6 @@
-# CRG
-Code for anonymous submission to ICML 2026
+# Anonymous Code for ICML Submission
+
+This repository contains an anonymized subset of the implementation accompanying our ICML submission.
+It is intended for review purposes only.
+
+
